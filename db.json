@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "f1d4",
+      "email": "ssamoylo76@mail.com",
+      "password": "Mama8038",
+      "confirmPassword": "Mama8038",
+      "createdAt": 1732293229724
+    },
+    {
+      "id": "01ba",
+      "email": "mmmmmmm@gmail.com",
+      "password": "S1s2s3s4s5s6",
+      "confirmPassword": "S1s2s3s4s5s6",
+      "createdAt": 1732297588300
+    },
+    {
+      "id": "c171",
+      "email": "mmmmmm@gmail.com",
+      "password": "A1a2a3a4a5a6",
+      "confirmPassword": "A1a2a3a4a5a6",
+      "createdAt": 1732297718774
+    },
+    {
+      "id": "fa9c",
+      "email": "mmf@bsu.by",
+      "password": "Mmf11111",
+      "confirmPassword": "Mmf11111",
+      "createdAt": 1733486430321
+    },
+    {
+      "id": "2fda",
+      "email": "yaustala@gmail.com",
+      "password": "Spasite1",
+      "confirmPassword": "Spasite1",
+      "createdAt": 1733518168915
+    }
+  ],
+  "notes": [
+    {
+      "id": "b92b",
+      "title": "Дорогой дневник",
+      "content": "мне не описать всю боль и унижение, что мне пришлось испытать",
+      "createdAt": 1732292815802
+    },
+    {
+      "id": "f19e",
+      "title": "lsd;v,s;ld",
+      "content": "sd'v",
+      "createdAt": 1732294555843
+    },
+    {
+      "id": "c6f7",
+      "title": "Мама мыла раму",
+      "content": "в",
+      "createdAt": 1732294846801
+    },
+    {
+      "id": "a4bb",
+      "title": "ya pochti zakonchila",
+      "content": "",
+      "createdAt": 1732297964113
+    },
+    {
+      "id": "e75f",
+      "title": "уа hochy spat",
+      "content": "",
+      "createdAt": 1733519568106
+    }
+  ]
+}
