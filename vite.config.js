@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react-swc'
 
 export default defineConfig({
   plugins: [react()],
-  base: "https://<AlyaksandraS.github.io/notion",
+  base: "https://<ALexandraSamoylo.github.io/notion",
 })
